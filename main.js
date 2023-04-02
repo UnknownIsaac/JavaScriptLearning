@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 let car = {
     make: "Pegasus",
     speed: 100,
@@ -11,3 +12,6 @@ let car = {
         ]
     },
 }
+=======
+console.log("Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo");
+>>>>>>> 86f2efeb76c142ad63d8407e2090375ae60f5d0f
