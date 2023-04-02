@@ -9,8 +9,9 @@
 function reverseString(str) {
 let splitString = str.split("");
 let stringArray = splitString.reverse();
-let joinArray = stringArray.join("");
-return joinArray
+let joinArray = stringArray.join("")
+str = joinArray
+return str
 }
 
 console.log(reverseString("hello"))
