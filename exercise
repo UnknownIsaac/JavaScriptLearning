@@ -1,0 +1,20 @@
+const me = ["Isaac", 20, true, fecha_nac = new Date(2002, 4, 21),
+            fav_book = {
+                title: "El principito",
+                author: "Antoine de Saint-Exupéry",
+                date: new Date(1943, 4, 6),
+                url: "https://www.amazon.com/El-principito-Antoine-Saint-Exup%C3%A9ry/dp/842046002X"
+            }]
+
+console.log(me);
+
+const name = "Isaac";
+const age = 20;
+const desarrollador = true;
+const fecha_nac = new Date(2002, 4, 21);
+const fav_book = {
+    title: "El principito",
+    auºthor: "Antoine de Saint-Exupéry",
+    date: new Date(1943, 4, 6),
+    url: "https://www.amazon.com/El-principito-Antoine-Saint-Exup%C3%A9ry/dp/842046002X"
+}
