@@ -1,0 +1,10 @@
+let name = 'Isaac';
+let lastName = 'Sims';
+let estudiante = `${name} ${lastName}`;
+let estudianteMayus = estudiante.toUpperCase();
+let estudianteMinus = estudiante.toLowerCase();
+let estudianteLength = estudiante.length;
+let nameFirstLetter = name.slice(0, 1)
+let lastNameFirstLetter = lastName.slice(0, 1)
+let cropEstudiante = estudiante.trim()
+let nameintegrated = estudiante.includes(name)
